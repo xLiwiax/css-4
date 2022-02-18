@@ -1,0 +1,20 @@
+body{
+    background-color: #f5f5dd;
+}
+div{
+    width: 200px;
+    height: 200px;
+
+}
+#div1{
+    background-color: rgba(0, 0, 0, 1.0);
+}
+#div2{
+    background-color: rgba(0, 0, 0, 0.75);
+}
+#div3{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#div4{
+    background-color: rgba(0, 0, 0, 0.25);
+}
